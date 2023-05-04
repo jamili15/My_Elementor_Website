@@ -67,7 +67,9 @@
 	padding-top: 20px;
 }
 
-
+#fit-img img {
+	object-fit: cover;
+}
 
 </style>
 <!-- end Simple Custom CSS and JS -->
